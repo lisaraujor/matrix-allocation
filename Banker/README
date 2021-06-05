@@ -1,0 +1,4 @@
+Para testar minha implementação, utilizei os códigos .c enviado pelo professor "customer.c" e "commands.txt", e 
+o código criado por mim"banker.c". Executei eles através do makefile. O código foi implementado no VS Code e
+testado no terminal do Linux. Para compilar, basta digitar o comando "make" e para rodar o programa "./banker"^
++ as instâncias que serão usadas nos processos.
